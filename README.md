@@ -1,4 +1,4 @@
-# js_learing
+# 前端学习
 
 
 > 本项目是我用来记录我学习前端写的代码,比较基础
@@ -75,3 +75,42 @@ Markdown All in One
 皮肤![image-20220908233512322](image-20220908233512322.png)
 
 试了一下这个
+
+#### 在Markdown里面粘贴图像的
+![](2022-09-10-11-49-12.png)
+
+
+粘贴的快捷键是ctrl+alt+v,就直接可以在vscode里面粘贴图片了
+
+
+
+## JavaScript笔记
+
+### 书写hello world的方式
+
+```JavaScript
+console.log("");
+
+
+```
+
+
+
+### 变量和常量
+
+
+
+### 基本数据类型&&引用数据类型
+1.基本数据类型（值类型）：String 字符串、Number 数值、BigInt 大型数值、Boolean 布尔值、Null 空值、Undefined 未定义、Symbol。
+
+2.引用数据类型（引用类型）：Object 对象。
+
+
+>JS里,所有的变量都是保存在栈内存里面的
+基本数据类型:栈内存
+引用数据类型:堆内存
+
+
+
+
+
